@@ -1,0 +1,16 @@
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\Entidades\obj\Debug\netstandard1.4\Entidades.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\obj\Debug\netstandard1.4\Entidades.csprojAssemblyReference.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\Entidades\obj\Debug\netstandard1.4\Entidades.pdb

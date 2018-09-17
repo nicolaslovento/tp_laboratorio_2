@@ -1,0 +1,26 @@
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.csprojAssemblyReference.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.LaCalculadora.resources
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.Properties.Resources.resources
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\bin\Debug\TpCalculadora.exe.config
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\bin\Debug\TpCalculadora.exe
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\bin\Debug\TpCalculadora.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\bin\Debug\Entidades.dll
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\bin\Debug\Entidades.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.csproj.CopyComplete
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.exe
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TpCalculadora\obj\Debug\TpCalculadora.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\bin\Debug\TpCalculadora.exe.config
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\bin\Debug\TpCalculadora.exe
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\bin\Debug\TpCalculadora.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\bin\Debug\Entidades.dll
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\bin\Debug\Entidades.pdb
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.csprojAssemblyReference.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.LaCalculadora.resources
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.Properties.Resources.resources
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.csproj.CopyComplete
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.exe
+C:\Users\nico\source\repos\Nicolas_LoVento_TM_2A\TP Nº1\TpCalculadora\obj\Debug\TpCalculadora.pdb
