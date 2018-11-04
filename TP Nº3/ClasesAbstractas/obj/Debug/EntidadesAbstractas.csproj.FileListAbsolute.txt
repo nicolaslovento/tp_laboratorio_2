@@ -1,0 +1,22 @@
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\bin\Debug\Archivos.dll
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\bin\Debug\Archivos.pdb
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\nico\Desktop\TpNum3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\bin\Debug\Archivos.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\bin\Debug\Archivos.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

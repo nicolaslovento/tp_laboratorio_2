@@ -1,0 +1,50 @@
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\TestUnitarios.cs.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\TestUnitarios.cs.pdb
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\ClasesAbstractas.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\EntidadesInstanciables.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Excepciones.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Archivos.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\ClasesAbstractas.pdb
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Excepciones.pdb
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\bin\Debug\Archivos.pdb
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.csproj.CopyComplete
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.dll
+C:\Users\nico\Desktop\TpNum3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\TestUnitarios.cs.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\TestUnitarios.cs.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\ClasesAbstractas.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\EntidadesInstanciables.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Excepciones.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Archivos.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\ClasesAbstractas.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Excepciones.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\bin\Debug\Archivos.pdb
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.csproj.CopyComplete
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.dll
+C:\Users\nico\Desktop\TP-03\TP Nº3\TestUnitarios.cs\obj\Debug\TestUnitarios.cs.pdb
