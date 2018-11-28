@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Entidades
 {
-    public class Calculadora
+    public static class Calculadora
     {
         private static string ValidarOperador(string operador)
         {
@@ -16,11 +16,13 @@ namespace Entidades
             return retorno; 
         }
 
-        public double Operar(Numero num1,Numero num2,string operador)
+        public static double Operar(Numero num1,Numero num2,string operador)
         {
             double resultado;
             string operadorValidado = ValidarOperador(operador);
 
+
+            
             if(operadorValidado=="/")
             {
                 resultado = num1/ num2;

@@ -37,3 +37,16 @@ C:\Users\alumno\Desktop\TP N-¦1\TpCalculadora\obj\Debug\TpCalculadora.csproj.Co
 C:\Users\alumno\Desktop\TP N-¦1\TpCalculadora\obj\Debug\TpCalculadora.csproj.CopyComplete
 C:\Users\alumno\Desktop\TP N-¦1\TpCalculadora\obj\Debug\TpCalculadora.exe
 C:\Users\alumno\Desktop\TP N-¦1\TpCalculadora\obj\Debug\TpCalculadora.pdb
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\bin\Debug\TpCalculadora.exe.config
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\bin\Debug\TpCalculadora.exe
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\bin\Debug\TpCalculadora.pdb
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.csprojAssemblyReference.cache
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.FormCalculadora.resources
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.Properties.Resources.resources
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.csproj.GenerateResource.cache
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.csproj.CopyComplete
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.exe
+C:\Users\nico\Desktop\2\TP1\TpCalculadora\obj\Debug\TpCalculadora.pdb
